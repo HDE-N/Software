@@ -20,3 +20,5 @@
 
 1. HTTPS加密連線
 2. sha-256 -> Bcrypt
+3. ID生成程式
+
